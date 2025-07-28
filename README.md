@@ -2,8 +2,6 @@
 
 ## codecademy-mixedmessages
 
----
-
 Project from Codecademy's Backend Learning Path.
 A mixed message generator program that outputs randomized output everytime it runs.
 
@@ -11,15 +9,11 @@ A simple console application with a base story of missing elements, that generat
 
 ### How its structured:
 
----
-
 - The data that is manipulated is inserted into the story inside '{}'. Formatting was a challange and I ended up making it work with a now specific format - The fillers are capitilized with no spaces eg. {PLURALNOUN}, or {VERBING} etc.
 - To add to the challenge, I added some import/export with a seperate data file.
 - I found a decent madlibs site for my stories, with only 2 examples initially. Structure was important and I came across The Word Finder, so thanks to them for the layout and the stories. May add some more in the future. <a href="https://www.thewordfinder.com/wordlibs/" target="_blank">The Word Finder</a>
 
 ## Tech Stack
-
----
 
 - JavaScript
 - Git and GitHub
@@ -27,7 +21,5 @@ A simple console application with a base story of missing elements, that generat
 - Command line - Git Bash
 
 ### Author
-
----
 
 <a href="https://github.com/md-oliver" target="_blank">@md-oliver</a>
